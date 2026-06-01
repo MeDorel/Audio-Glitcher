@@ -1,2 +1,4 @@
 # Audio-Glitcher
-some fun thing to mess around
+a python script to flip bytes to make something lol
+
+# LOWER UR VOLUME AFTER GLITCHING THE AUDIO
